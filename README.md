@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zwaneb</h1>
-<h3 align="center">Étudiante à l'École Supérieure Polytechnique de Nouakchott, spécialisée en statistique et ingénierie des données,</h3>
+<h3 align="center">Étudiante à l'École Supérieure Polytechnique de Nouakchott, spécialisée en statistique et ingénierie des données</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
